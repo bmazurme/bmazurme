@@ -26,6 +26,7 @@
 ![Helmet](https://img.shields.io/badge/-Helmet-black?style=flat-square&logo=helmet)
 ![MongoDB](https://img.shields.io/badge/-MongoDB-black?style=flat-square&logo=mongodb)
 ![Mongoose](https://img.shields.io/badge/-Mongoose-black?style=flat-square&logo=mongoose)
+![Figma](https://img.shields.io/badge/-Figma-black?style=flat-square&logo=figma)
 
 
 <!--
