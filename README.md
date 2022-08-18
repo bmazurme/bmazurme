@@ -6,10 +6,13 @@
 ![CSharp](https://img.shields.io/badge/-CSharp-black?style=flat-square&logo=csharp)
 ![HTML5](https://img.shields.io/badge/-HTML5-black?style=flat-square&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/-CSS3-black?style=flat-square&logo=css3)
+![PostCSS](https://img.shields.io/badge/-PostCSS-black?style=flat-square&logo=postcss)
 ![React](https://img.shields.io/badge/-React-black?style=flat-square&logo=react)
 ![Redux](https://img.shields.io/badge/-Redux-black?style=flat-square&logo=redux)
 ![NPM](https://img.shields.io/badge/-NPM-black?style=flat-square&logo=npm)
 ![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git)
+![mocha](https://img.shields.io/badge/-mocha-black?style=flat-square&logo=mocha)
+![Chai](https://img.shields.io/badge/-Chai-black?style=flat-square&logo=chai)
 ![Eslint](https://img.shields.io/badge/-Eslint-black?style=flat-square&logo=eslint)
 ![Stylelint](https://img.shields.io/badge/-Stylelint-black?style=flat-square&logo=stylelint)
 ![BEM](https://img.shields.io/badge/-BEM-black?style=flat-square&logo=bem)
@@ -27,6 +30,9 @@
 ![MongoDB](https://img.shields.io/badge/-MongoDB-black?style=flat-square&logo=mongodb)
 ![Mongoose](https://img.shields.io/badge/-Mongoose-black?style=flat-square&logo=mongoose)
 ![Figma](https://img.shields.io/badge/-Figma-black?style=flat-square&logo=figma)
+
+
+
 
 
 <!--
