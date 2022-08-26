@@ -10,7 +10,7 @@
 ![Redux](https://img.shields.io/badge/-Redux-black?style=flat-square&logo=redux)
 ![NPM](https://img.shields.io/badge/-NPM-black?style=flat-square&logo=npm)
 ![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git)
-![mocha](https://img.shields.io/badge/-mocha-black?style=flat-square&logo=mocha)
+![Mocha](https://img.shields.io/badge/-Mocha-black?style=flat-square&logo=mocha)
 ![Chai](https://img.shields.io/badge/-Chai-black?style=flat-square&logo=chai)
 ![Eslint](https://img.shields.io/badge/-Eslint-black?style=flat-square&logo=eslint)
 ![Stylelint](https://img.shields.io/badge/-Stylelint-black?style=flat-square&logo=stylelint)
