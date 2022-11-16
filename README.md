@@ -8,6 +8,7 @@
 ![CSS3](https://img.shields.io/badge/-CSS3-black?style=flat-square&logo=css3)
 ![React](https://img.shields.io/badge/-React-black?style=flat-square&logo=react)
 ![Redux](https://img.shields.io/badge/-Redux-black?style=flat-square&logo=redux)
+![Vue](https://img.shields.io/badge/-Vue-black?style=flat-square&logo=vue.js)
 ![NPM](https://img.shields.io/badge/-NPM-black?style=flat-square&logo=npm)
 ![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git)
 ![Mocha](https://img.shields.io/badge/-Mocha-black?style=flat-square&logo=mocha)
