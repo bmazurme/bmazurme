@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-### Tech Stack
+### My tech stack
 ![React](https://img.shields.io/badge/-React-black?style=flat-square&logo=react)
 ![Next](https://img.shields.io/badge/-Next-black?style=flat-square&logo=next.js)
 ![Vue](https://img.shields.io/badge/-Vue-black?style=flat-square&logo=vue.js)
