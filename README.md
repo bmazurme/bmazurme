@@ -33,7 +33,17 @@
 ![Helmet](https://img.shields.io/badge/-Helmet-black?style=flat-square&logo=helmet)
 ![MongoDB](https://img.shields.io/badge/-MongoDB-black?style=flat-square&logo=mongodb)
 ![Mongoose](https://img.shields.io/badge/-Mongoose-black?style=flat-square&logo=mongoose)
-![Figma](https://img.shields.io/badge/-Figma-black?style=flat-square&logo=figma)
+![TailwindCSS](https://img.shields.io/badge/-Tailwindcss-black?style=flat-square&logo=tailwind-css&logoColor=white)
+
+
+### Tools
+![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+![IntelliJ IDEA](https://img.shields.io/badge/IntelliJIDEA-000000.svg?style=for-the-badge&logo=intellij-idea&logoColor=white)
+![Visual Studio](https://img.shields.io/badge/Visual%20Studio-5C2D91.svg?style=for-the-badge&logo=visual-studio&logoColor=white)
+![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
+![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
+
+GitLens, Prettier, ESLint/TSLint, Auto Rename Tag, eCSStractor, Markdown Checkboxes
 
 
 
