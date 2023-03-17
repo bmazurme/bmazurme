@@ -34,7 +34,9 @@
 ![Nodejs](https://img.shields.io/badge/-Nodejs-black?style=flat-square&logo=Node.js)
 ![.NETCore](https://img.shields.io/badge/-.NETCore-black?style=flat-square&logo=.net)
 ![Helmet](https://img.shields.io/badge/-Helmet-black?style=flat-square&logo=helmet)
+![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-black?style=flat-square&logo=postgresql)
 ![MongoDB](https://img.shields.io/badge/-MongoDB-black?style=flat-square&logo=mongodb)
+![Sequelize](https://img.shields.io/badge/-Sequelize-black?style=flat-square&logo=sequelize)
 ![Mongoose](https://img.shields.io/badge/-Mongoose-black?style=flat-square&logo=mongoose)
 
 ### Tools
