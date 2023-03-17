@@ -5,6 +5,7 @@
 ![Next](https://img.shields.io/badge/-Next-black?style=flat-square&logo=next.js)
 ![Vue](https://img.shields.io/badge/-Vue-black?style=flat-square&logo=vue.js)
 ![Express](https://img.shields.io/badge/-Express-black?style=flat-square&logo=express)
+![Nest](https://img.shields.io/badge/-Nest-black?style=flat-square&logo=nestjs)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
 ![TypeScript](https://img.shields.io/badge/-TypeScript-black?style=flat-square&logo=typescript)
 ![CSharp](https://img.shields.io/badge/-CSharp-black?style=flat-square&logo=csharp)
