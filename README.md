@@ -23,6 +23,7 @@
 ![BEM](https://img.shields.io/badge/-BEM-black?style=flat-square&logo=bem)
 ![MUI](https://img.shields.io/badge/-MUI-black?style=flat-square&logo=mui)
 ![TailwindCSS](https://img.shields.io/badge/-Tailwindcss-black?style=flat-square&logo=tailwind-css&logoColor=white)
+![Ant](https://img.shields.io/badge/-AntDesign-black?style=flat-square&logo=ant-design)
 ![Webpack](https://img.shields.io/badge/-Webpack-black?style=flat-square&logo=webpack)
 ![Parcel](https://img.shields.io/badge/-Parcel-black?style=flat-square&logo=parcel)
 ![PostCSS](https://img.shields.io/badge/-PostCSS-black?style=flat-square&logo=postcss)
