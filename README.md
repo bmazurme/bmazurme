@@ -2,8 +2,8 @@
 
 ### My tech stack
 ![React](https://img.shields.io/badge/-React-black?style=flat-square&logo=react)
-![Next](https://img.shields.io/badge/-Next-black?style=flat-square&logo=next.js)
 ![Vue](https://img.shields.io/badge/-Vue-black?style=flat-square&logo=vue.js)
+![Next](https://img.shields.io/badge/-Next-black?style=flat-square&logo=next.js)
 ![Express](https://img.shields.io/badge/-Express-black?style=flat-square&logo=express)
 ![Nest](https://img.shields.io/badge/-Nest-black?style=flat-square&logo=nestjs)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
