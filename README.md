@@ -28,6 +28,7 @@
 ![Ant](https://img.shields.io/badge/-AntDesign-black?style=flat-square&logo=ant-design)
 ![Webpack](https://img.shields.io/badge/-Webpack-black?style=flat-square&logo=webpack)
 ![Parcel](https://img.shields.io/badge/-Parcel-black?style=flat-square&logo=parcel)
+![Vite](https://img.shields.io/badge/-Vite-black?style=flat-square&logo=vite)
 ![PostCSS](https://img.shields.io/badge/-PostCSS-black?style=flat-square&logo=postcss)
 ![Ubuntu](https://img.shields.io/badge/-Ubuntu-black?style=flat-square&logo=ubuntu)
 ![Netlify](https://img.shields.io/badge/-Netlify-black?style=flat-square&logo=netlify)
