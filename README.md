@@ -19,6 +19,7 @@
 ![Cyppress](https://img.shields.io/badge/-Cypress-black?style=flat-square&logo=cypress)
 ![Mocha](https://img.shields.io/badge/-Mocha-black?style=flat-square&logo=mocha)
 ![Chai](https://img.shields.io/badge/-Chai-black?style=flat-square&logo=chai)
+![Jest](https://img.shields.io/badge/-Jest-black?style=flat-square&logo=jest)
 ![Eslint](https://img.shields.io/badge/-Eslint-black?style=flat-square&logo=eslint)
 ![Stylelint](https://img.shields.io/badge/-Stylelint-black?style=flat-square&logo=stylelint)
 ![BEM](https://img.shields.io/badge/-BEM-black?style=flat-square&logo=bem)
