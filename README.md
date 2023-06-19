@@ -62,6 +62,8 @@
 
 GitLens, Prettier, ESLint/TSLint, Auto Rename Tag, eCSStractor, Markdown, CSS Peek, Dev Containers, Docker, DotENV
 
+![codewars](https://www.codewars.com/users/bmazurme/badges/micro)
+
 
 
 <!--
