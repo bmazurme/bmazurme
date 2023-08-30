@@ -16,7 +16,7 @@
 ![React Hook Form](https://img.shields.io/badge/React%20Hook%20Form-black?style=flat-square&logo=reacthookform&logoColor=white)
 ![NPM](https://img.shields.io/badge/-NPM-black?style=flat-square&logo=npm)
 ![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git)
-![Cyppress](https://img.shields.io/badge/-Cypress-black?style=flat-square&logo=cypress)
+![Cypress](https://img.shields.io/badge/-Cypress-black?style=flat-square&logo=cypress)
 ![Mocha](https://img.shields.io/badge/-Mocha-black?style=flat-square&logo=mocha)
 ![Chai](https://img.shields.io/badge/-Chai-black?style=flat-square&logo=chai)
 ![Jest](https://img.shields.io/badge/-Jest-black?style=flat-square&logo=jest)
