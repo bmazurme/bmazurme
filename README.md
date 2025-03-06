@@ -47,6 +47,7 @@
 ![GraphQL](https://img.shields.io/badge/-GraphQL-black?style=flat-square&logo=graphql)
 ![REST](https://img.shields.io/badge/-REST-black?style=flat-square&logo=rest)
 ![Axios](https://img.shields.io/badge/-Axios-black?style=flat-square&logo=axios)
+![GitLab](https://img.shields.io/badge/-GitLab-black?style=flat-square&logo=gitlab)
 
 ![codewars](https://www.codewars.com/users/bmazurme/badges/micro)
 
