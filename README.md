@@ -38,6 +38,7 @@
 ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-black?style=flat-square&logo=postgresql)
 ![MongoDB](https://img.shields.io/badge/-MongoDB-black?style=flat-square&logo=mongodb)
 ![Redis](https://img.shields.io/badge/-Redis-black?style=flat-square&logo=redis)
+![Minio](https://img.shields.io/badge/-Minio-black?style=flat-square&logo=minio)
 ![Sequelize](https://img.shields.io/badge/-Sequelize-black?style=flat-square&logo=sequelize)
 ![TypeORM](https://img.shields.io/badge/-TypeORM-black?style=flat-square&logo=typeorm)
 ![Mongoose](https://img.shields.io/badge/-Mongoose-black?style=flat-square&logo=mongoose)
@@ -45,6 +46,7 @@
 ![REST](https://img.shields.io/badge/-REST-black?style=flat-square&logo=rest)
 ![Axios](https://img.shields.io/badge/-Axios-black?style=flat-square&logo=axios)
 ![GitLab](https://img.shields.io/badge/-GitLab-black?style=flat-square&logo=gitlab)
+![Grafana](https://img.shields.io/badge/-Grafana-black?style=flat-square&logo=grafana)
 
 ![codewars](https://www.codewars.com/users/bmazurme/badges/micro)
 
