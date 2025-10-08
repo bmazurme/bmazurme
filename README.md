@@ -16,7 +16,6 @@
 ![NPM](https://img.shields.io/badge/-NPM-black?style=flat-square&logo=npm)
 ![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git)
 ![Cypress](https://img.shields.io/badge/-Cypress-black?style=flat-square&logo=cypress)
-![Mocha](https://img.shields.io/badge/-Mocha-black?style=flat-square&logo=mocha)
 ![Jest](https://img.shields.io/badge/-Jest-black?style=flat-square&logo=jest)
 ![Eslint](https://img.shields.io/badge/-Eslint-black?style=flat-square&logo=eslint)
 ![Stylelint](https://img.shields.io/badge/-Stylelint-black?style=flat-square&logo=stylelint)
